@@ -2,7 +2,7 @@
 Program implementing Newton's method that finds roots of a polynomial of given coefficients
 
 # Usage
-Usage: roots -c <coefficients> [OPTIONS]
+Usage: roots -c \<coefficients\> [OPTIONS]
 
 Options:
 
